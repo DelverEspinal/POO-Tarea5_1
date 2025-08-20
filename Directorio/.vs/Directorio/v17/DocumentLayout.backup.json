@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|c:\\github\\poo-tarea5_1\\directorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|c:\\github\\poo-tarea5_1\\directorio\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|c:\\github\\poo-tarea5_1\\directorio\\clases\\marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DB186A-04DD-4BC1-9ECA-CDC2ACACE1D7}|Directorio.csproj|solutionrelative:clases\\marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:21:19.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:47:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marcador.cs",
+              "DocumentMoniker": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Clases\\Marcador.cs",
+              "RelativeDocumentMoniker": "Clases\\Marcador.cs",
+              "ToolTip": "C:\\GitHub\\POO-Tarea5_1\\Directorio\\Clases\\Marcador.cs",
+              "RelativeToolTip": "Clases\\Marcador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:47:57.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

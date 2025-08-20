@@ -1,0 +1,8 @@
+C:\GitHub\POO-Tarea5_1\Directorio\bin\Debug\Directorio.exe.config
+C:\GitHub\POO-Tarea5_1\Directorio\bin\Debug\Directorio.exe
+C:\GitHub\POO-Tarea5_1\Directorio\bin\Debug\Directorio.pdb
+C:\GitHub\POO-Tarea5_1\Directorio\obj\Debug\Directorio.csproj.AssemblyReference.cache
+C:\GitHub\POO-Tarea5_1\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\GitHub\POO-Tarea5_1\Directorio\obj\Debug\Directorio.exe
+C:\GitHub\POO-Tarea5_1\Directorio\obj\Debug\Directorio.pdb
+C:\GitHub\POO-Tarea5_1\Directorio\obj\Debug\Directorio.exe.config
